@@ -49,7 +49,7 @@ The project is structured into three comprehensive phases:
 * **High-Fidelity Prototype:** 28+ screens designed with a focus on accessibility, modern aesthetics, and intuitive navigation.
 * **Interactive Components:** Fully linked transitions to simulate a real app environment for stakeholder validation.
 
-<img width="573" height="1125" alt="image" src="https://github.com/user-attachments/assets/cd955a74-4128-4711-9ba3-b1c7b106f5dc" />
+<img width="1784" height="1125" alt="image" src="https://github.com/user-attachments/assets/f1038028-655f-422e-b76a-5147c1150ea5" />
 
 ---
 

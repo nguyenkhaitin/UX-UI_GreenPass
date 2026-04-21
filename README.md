@@ -54,7 +54,5 @@ The project is structured into three comprehensive phases:
 ---
 
 ### Technical & Design Stack
-* **Design Tools:** Figma (Prototyping & UI Design)
-* **Modeling Tools:** Draw.io, MS Visio (BPMN, BFD, Service Blueprint)
+* **Design Tools:** Figma (Modeling,Prototyping & UI Design)
 * **Methodologies:** Design Thinking, Service Design, Business Process Modeling (BPM).
-* **Documentation:** Microsoft Word (Comprehensive Project Report).

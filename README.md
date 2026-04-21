@@ -31,17 +31,18 @@ The project is structured into three comprehensive phases:
 
 #### 1. UX Analysis (The Foundation)
 * **User Personas:** Detailed profiles of target travelers.
-* **Journey Mapping:** Identifying opportunities for intervention across the travel experience.
+<img width="1152" height="873" alt="image" src="https://github.com/user-attachments/assets/f284b332-e4a1-44af-8201-75008433dded" />
 
+* **Journey Mapping:** Identifying opportunities for intervention across the travel experience.
 <img width="4200" height="3522" alt="image" src="https://github.com/user-attachments/assets/53e5a5f8-3ff3-440d-92ca-6410999c0c9d" />
 
 #### 2. System Analysis (The Logic)
 * **Service Blueprint:** A master map of the service delivery process, including physical evidence and support processes.
-<img width="17206" height="3770" alt="image" src="https://github.com/user-attachments/assets/e68c0af5-3e63-4c9d-a64d-c427c313bad7" />
+<img width="5296" height="3710" alt="image" src="https://github.com/user-attachments/assets/1935ee12-d25b-4928-a931-0263d3a7551c" />
 
 * **BPMN & DFD:** Visualizing the sequence of business activities and data movement within the GreenPass ecosystem.
-<img width="17206" height="3770" alt="image" src="https://github.com/user-attachments/assets/a7f8eca0-57bf-4f3b-b353-65e2a58c8d97" />
-<img width="17206" height="3770" alt="image" src="https://github.com/user-attachments/assets/2f4db477-4818-48fa-adeb-d826832086af" />
+<img width="2337" height="2019" alt="image" src="https://github.com/user-attachments/assets/30f8a239-5c84-4440-8995-aee92ca219f6" />
+<img width="3284" height="2212" alt="image" src="https://github.com/user-attachments/assets/b479e784-da55-48e7-a848-7ea2b2404ee9" />
 
 
 
